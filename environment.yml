@@ -1,0 +1,9 @@
+name: mlops
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pandas
+  - pyarrow
+  - ipykernel
